@@ -1,6 +1,6 @@
 function add(a, b) {
-    return a + b;
+    return a + b + 1;
 }
-//КОМЕНТАР З 7 ЛАБОРАТОРНОI РОБОТИ ДЛЯ ЗМIНИ КОДУ//
+//ЗЛОМАНА ВЕРСIЯ//
 
 module.exports = add;
